@@ -27,8 +27,9 @@ the rate at which mind drains. Again, we can adjust and change this later in dev
   and control their fear of being alone. 
 
 Build: Find Yourself  was built to run on Windows for the PC, https://github.com/kogasaa/FindYourself/blob/master/FindYourself.uproject
-. Controls: The controls are WASD to move around, and space is used to jump, we are implementing more features and movements 
   as we progress but for the time being we only have these controls. 
 . Unreal Engine 5 EULA: https://www.unrealengine.com/en-US/eula/unreal?prox=1
+. Controles: WASD for movement. "Space" for jumping. "F" toggles the flashlight on and off. "E" is the pick up and interact with objects. 
+ 
 
 
